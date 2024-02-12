@@ -2,7 +2,7 @@
 <br>
 # 💫 About Me:
 **Portfolio :** https://portfolio-space-ydea.vercel.app/
-<br>Hi there!<br><br>I'm an aspiring MERN stack Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.<br><br>I've been exploring various frontend technologies, including HTML, CSS, JavaScript, React ,Rest APi's ., mongoDB database , NOdejs. I'm also actively participating in competitive programming challenges to enhance my problem-solving abilities and understanding of algorithms and data structures.<br><br>In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.<br><br>
+<br>Hi there!<br><br>I'm an aspiring MERN stack Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.<br><br>I've been exploring various technologies, including HTML, CSS, JavaScript, React ,Rest APi's ., mongoDB database , NOdejs. I'm also actively participating in competitive programming challenges to enhance my problem-solving abilities and understanding of algorithms and data structures.<br><br>In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.<br><br>
 
 ## 👩🏾‍💻 Skills:
 **Programming languages :** HTML, CSS, JavaScript, C,java, C++,python<br>
