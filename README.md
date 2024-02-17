@@ -1,6 +1,8 @@
-<div align="center">
-   <h1>Hi there, I'm Pravin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar....;Nice+to+meet+you!&center=true&size=40">
+  </a>
+</h1>
 <p align='center'>
    <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/pravin-nandankar-a38910275/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="[https://twitter.com/8bithemant](https://twitter.com/PravinNandanka3)"><img height="30" src="[https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dezeen.com%2F2023%2F07%2F24%2Ftwitter-rebrand-x-powered-ai%2F&psig=AOvVaw0-YXDCfL9N1Pq5zQjsFu-k&ust=1708230621855000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj3iIzFsYQDFQAAAAAdAAAAABAJ)?raw=true"></a>&nbsp;&nbsp;
