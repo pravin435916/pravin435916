@@ -1,5 +1,24 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQGHw1dHMLgXRw/profile-displaybackgroundimage-shrink_200_800/0/1702738857695?e=2147483647&v=beta&t=b4mgysmXcZ79-jtSAuGE2kYIlaWvY0ck43pttlUdkG0)
-<br>
+<div align="center">
+   <h1>Hi there, I'm Pravin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+<p align='center'>
+   <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/pravin-nandankar-a38910275/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="[https://twitter.com/8bithemant](https://twitter.com/PravinNandanka3)"><img height="30" src="[https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dezeen.com%2F2023%2F07%2F24%2Ftwitter-rebrand-x-powered-ai%2F&psig=AOvVaw0-YXDCfL9N1Pq5zQjsFu-k&ust=1708230621855000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj3iIzFsYQDFQAAAAAdAAAAABAJ)?raw=true"></a>&nbsp;&nbsp;
+<a href="[https://dev.to/hemant](https://www.instagram.com/pravin____x9/)"><img height="30" src="[https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw05g2Wy1tj2ip540Rl3_Xaq&ust=1708230661359000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDmvZ7FsYQDFQAAAAAdAAAAABAE)?raw=true"></a>&nbsp;&nbsp;
+ </p>
+
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Pravin Nandankar | 💻 Full Stack Developer | 🛸 India , Nagpur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+ 
+ <h5 align="center">
+   <i>⚡️Debugging is like solving a mystery where you're the detective, the victim, and the murderer... all at once.⚡️</i>
+  </h5>
+ 
+<br />
 # 💫 About Me:
 **Portfolio :** https://portfolio-space-ydea.vercel.app/
 <br>Hi there!<br><br>I'm an aspiring MERN stack Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.<br><br>I've been exploring various technologies, including HTML, CSS, JavaScript, React ,Rest APi's ., mongoDB database , NOdejs. I'm also actively participating in competitive programming challenges to enhance my problem-solving abilities and understanding of algorithms and data structures.<br><br>In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.<br><br>
