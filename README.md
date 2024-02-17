@@ -12,7 +12,7 @@
 **Competitive programming:** Algorithms, data structures, problem-solving (actively learning)<br>
 **Currently working on:** <br>
 Building personal projects using React and TypeScript to gain hands-on experience<br>Contributing to open-source projects to learn from experienced developers and improve my skills<br>Exploring new technologies such as WebAssembly and Rust to expand my knowledge base<br>I'm always open to new learning opportunities and collaborations. If you have any interesting projects or ideas, please feel free to reach out!<br><br>
-
+**Views:** ![](https://komarev.com/ghpvc/?username=pravin435916)
 ## 🤝 Contacts:
 pravinnandankar03@gmail.com<br>https://www.linkedin.com/in/pravin-nandankar-a38910275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>https://github.com/pravin435916/
 
