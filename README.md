@@ -12,7 +12,8 @@
 **Competitive programming:** Algorithms, data structures, problem-solving <br>
 **Currently working on:** <br>
 Building personal projects using React and TypeScript to gain hands-on experience<br>Contributing to open-source projects to learn from experienced developers and improve my skills<br>Exploring new technologies such as WebAssembly and Rust to expand my knowledge base<br>I'm always open to new learning opportunities and collaborations. If you have any interesting projects or ideas, please feel free to reach out!<br><br>
-
+### Visitor count
+<img src="https://profile-counter.glitch.me/pravin435916/count.svg" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pravin____x9) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PravinNandankar) 
