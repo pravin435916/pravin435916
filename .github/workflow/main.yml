@@ -1,6 +1,7 @@
 
 name: Generate snake game
-
+uses: Sutil/snk@v01.00.02
+            
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
