@@ -28,7 +28,7 @@
  
 <br />
 # 💫 About Me:
-**Portfolio :** https://portfolio-space-ydea.vercel.app/
+Portfolio :https://portfolio-space-ydea.vercel.app/
 <br>I'm an aspiring Full Stack web Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.<br><br>I've been exploring various technologies, including HTML, CSS, JavaScript, React ,Rest APi's ., mongoDB database , NOdejs. I'm also actively participating in competitive programming challenges to enhance my problem-solving abilities and understanding of algorithms and data structures.<br><br>In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.<br><br>
 
 ## 👩🏾‍💻 Skills:
@@ -48,8 +48,16 @@ Building personal projects using React and TypeScript to gain hands-on experienc
 ![](https://github-readme-stats.vercel.app/api?username=pravin435916&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pravin435916&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin435916&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pravin435916&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin435916&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+###
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pravin435916&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
