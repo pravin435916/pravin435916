@@ -25,7 +25,7 @@
 </h5>
 
 # 💫 About Me:
-Portfolio: https://portfolio-space-ydea.vercel.app/
+Portfolio: [My Portfolio](https://portfolio-space-ydea.vercel.app/)
 
 I'm an aspiring Full Stack web Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.
 
@@ -41,7 +41,7 @@ In my free time, I enjoy contributing to open-source projects and exploring emer
 - **IDEs:** Visual Studio Code, IntelliJ IDEA
 - **Competitive Programming:** Algorithms, Data Structures, Problem-solving
 - **Currently Working On:**
-  - Building personal projects using React and TypeScript to gain hands-on experience
+  - Building personal projects using React and Javascript to gain hands-on experience
   - Contributing to open-source projects to learn from experienced developers and improve my skills
   - Exploring new technologies such as WebAssembly and Rust to expand my knowledge base
 
@@ -74,5 +74,3 @@ I'm always open to new learning opportunities and collaborations. If you have an
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pravin435916&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=pravin435916&icon=9&color=1)](https://visitcount.itsvg.in)
