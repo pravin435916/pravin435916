@@ -64,7 +64,7 @@ I'm always open to new learning opportunities and collaborations. If you have an
 
 ###
 
-![Snake Animation](https://github.com/pravin435916/pravin435916/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/pravin435916/pravin435916/output/snake.svg" alt="Snake animation" />
 
 ###
 
