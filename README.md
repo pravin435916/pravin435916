@@ -64,9 +64,11 @@ I'm always open to new learning opportunities and collaborations. If you have an
 
 ###
 
-<img src="https://raw.githubusercontent.com/pravin435916/pravin435916/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+</picture>
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pravin435916&limit=5&theme=dark&combine_all_yearly_contributions=true)
