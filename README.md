@@ -2,7 +2,7 @@
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar;Nice+to+meet+you!&center=true&size=30">
   </a> -->
-   <img src="images/banner.png" alt="My Profile Picture" width="600" />
+   <img src="images/banner.png" alt="My Profile Picture" width="800" />
 </h1>
 
 <!-- <p align='center'>
