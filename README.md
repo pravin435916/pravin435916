@@ -2,7 +2,7 @@
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar;Nice+to+meet+you!&center=true&size=30">
   </a> -->
-   <img src="images/banner.png" alt="My Profile Picture" width="800" />
+   <img src="images/banner.png" alt="My Profile Picture" width="900" />
 </h1>
 
 <!-- <p align='center'>
@@ -63,9 +63,9 @@ I'm always open to new learning opportunities and collaborations. If you have an
 </div>
 
 ###
-## Hacktoberfest 2024 Badges 
-[![@pravin's Holopin board](https://holopin.me/pravin916)](https://holopin.io/@pravin916)
-
+<!--  ## Hacktoberfest 2024 Badges 
+[![An image of @pravin916's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin916)](https://holopin.io/@pravin916)
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
