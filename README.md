@@ -1,7 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  </a> -->
+  ![My Profile Picture](images/banner.png)
+
 </h1>
 
 <p align='center'>
@@ -34,12 +36,11 @@ I've been exploring various technologies, including HTML, CSS, JavaScript, React
 In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.
 
 ## 👩🏾‍💻 Skills:
-
-- **Programming Languages:** HTML, CSS, JavaScript, C, Java, C++, Python
-- **Frontend Development Frameworks:** React.js, Tailwind CSS
+- **Programming Languages:** HTML, CSS, JavaScript, C, C++, Python
+- **Frontend Development Frameworks:** React.js, Tailwind CSS, Node.js, MongoDB, Express.js
 - **Software and Tools:** Git, GitHub
-- **IDEs:** Visual Studio Code, IntelliJ IDEA
 - **Competitive Programming:** Algorithms, Data Structures, Problem-solving
+- **Machine Learning** : EDA, Regression, Classification
 - **Currently Working On:**
   - Building personal projects using React and Javascript to gain hands-on experience
   - Contributing to open-source projects to learn from experienced developers and improve my skills
@@ -63,6 +64,8 @@ I'm always open to new learning opportunities and collaborations. If you have an
 </div>
 
 ###
+## Hacktoberfest 2024 Badges 
+[![@pravin's Holopin board](https://holopin.me/pravin916)](https://holopin.io/@pravin916)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
