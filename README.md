@@ -2,11 +2,10 @@
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar;Nice+to+meet+you!&center=true&size=30">
   </a> -->
-  ![My Profile Picture](images/banner.png)
-
+   <img src="images/banner.png" alt="My Profile Picture" width="600" />
 </h1>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://www.linkedin.com/in/pravin-nandankar-a38910275/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
@@ -16,11 +15,11 @@
   <a href="https://www.instagram.com/pravin____x9/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">
   </a>&nbsp;&nbsp;
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Pravin Nandankar | 💻 Full Stack Developer | 🛸 India, Nagpur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+</div> -->
 
 <h5 align="center">
   <i>⚡️Debugging is like solving a mystery where you're the detective, the victim, and the murderer... all at once.⚡️</i>
