@@ -1,4 +1,4 @@
-<h1 align="center">
+⅞<h1 align="center">
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pravin+Nandankar;Nice+to+meet+you!&center=true&size=30">
   </a> -->
@@ -32,6 +32,7 @@ I'm an aspiring Full Stack web Developer and Competitive Programmer with a keen 
 
 I've been exploring various technologies, including HTML, CSS, JavaScript, React, REST APIs, MongoDB, Node.js. I'm also actively participating in competitive programming challenges to enhance my problem-solving abilities and understanding of algorithms and data structures.
 
+I'm Machine learning enthusiastic also engaging and developing model using various algorithm 
 In my free time, I enjoy contributing to open-source projects and exploring emerging technologies. I'm always looking for opportunities to collaborate and learn from experienced developers.
 
 ## 👩🏾‍💻 Skills:
