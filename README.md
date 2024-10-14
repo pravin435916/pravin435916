@@ -64,9 +64,9 @@ I'm always open to new learning opportunities and collaborations. If you have an
 </div>
 
 ###
-<!--  ## Hacktoberfest 2024 Badges 
+## Hacktoberfest 2024 Badges 
 [![An image of @pravin916's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin916)](https://holopin.io/@pravin916)
--->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
