@@ -26,7 +26,7 @@
 </h5>
 
 # 💫 About Me:
-Portfolio: [My Portfolio](https://portfolio-space-ydea.vercel.app/)
+Portfolio: [My Portfolio]([https://portfolio-space-ydea.vercel.app/](https://pravinnandankar.vercel.app/))
 
 I'm an aspiring Full Stack web Developer and Competitive Programmer with a keen interest in building engaging and user-friendly web applications. While I'm still on my journey to becoming a proficient developer, I'm always eager to learn new things and improve my skills.
 
