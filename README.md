@@ -15,11 +15,11 @@
   <a href="https://www.instagram.com/pravin____x9/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">
   </a>&nbsp;&nbsp;
+  hello kas kay
 </p> -->
-
-<!-- <div align="center">
+<div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Pravin Nandankar | 💻 Full Stack Developer | 🛸 India, Nagpur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div> -->
+</div>
 
 <h5 align="center">
   <i>⚡️Debugging is like solving a mystery where you're the detective, the victim, and the murderer... all at once.⚡️</i>
