@@ -143,6 +143,10 @@ const pravin = {
 
 ---
 
+###
+## Hacktoberfest Badges 
+[![An image of @pravin916's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pravin916)](https://holopin.io/@pravin916)
+
 ## 📊 GitHub Stats
 
 <div align="center">
